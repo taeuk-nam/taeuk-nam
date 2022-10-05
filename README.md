@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Math 99r: Moduli Problems and Stacks</title>
-</head>
 <body>
-<h1>Lecture Notes</h1>
+<h1>Math 99r: Moduli Problems and Stacks</h1>
+<h2>Lecture Notes</h2>
 <p>Lecture 1 Notes: </p>
