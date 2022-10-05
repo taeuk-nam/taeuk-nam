@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-Math 99r: Moduli Problems and Stacks
+  <title>Math 99r: Moduli Problems and Stacks</title>
 </head>
 <body>
 <h1>Lecture Notes</h1>
