@@ -12,3 +12,6 @@
   <p>Lecture 7 Notes - Topological Groupoids and Topological Artin Stacks</p>
   <p>Lecture 8 Notes - A First Course in Algebraic Geometry</p>
   <p>Lecture 9 Notes - Etale and Smooth Morphisms</p>
+<h2>Assignments</h2>
+  <p>Problem Set 1 - Due 09/24/2022</p>
+  <p>Problem Set 2 - Due 10/01/2022</p>
